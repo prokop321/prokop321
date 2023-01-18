@@ -1,4 +1,9 @@
-# Hi there, my name is Prokop Lošťák
+## Hi there, my name is Prokop Lošťák
+
+I am 16 yo student with astronomic abicious. 
+
+My curently bigest project is [CloudRoll](https://pages.github.com/). CloudRoll is online shering platform for evetns. One place, for all of yours memories.
+Even i have GH profile, I am not realy good programer, mainly I am CEO, with some knowlage of code.
 
 <!--
 **prokop321/prokop321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
